@@ -1,8 +1,8 @@
-# venom - учебный проект Gle  Academy
-## Проект выполнили: Шакиров Рузаль, Камалов Ильдар
+# It is study project for GloAcademy. Promo page for film Venom 2.
 
-В проекте используется:
-- HTML
-- CSS
-- JavaScript
-- Normalize
+
+Used technologies:
+<li>HTML</li>
+<li>CSS</li>
+
+# Editor: Alyoshin Egor.
